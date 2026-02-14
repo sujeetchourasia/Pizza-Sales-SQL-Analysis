@@ -51,4 +51,4 @@ I structured the analysis into three levels of complexity to demonstrate a range
 
 *Author: SUJEET CHOURASIA*
 
-*Connect with me on LinkedIn: https://www.linkedin.com/in/sujeet-chourasia-556886294/*
+*Connect with me on LinkedIn: https://www.linkedin.com/in/sujeet-chourasia/*
