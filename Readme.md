@@ -6,9 +6,9 @@ This project involves analyzing pizza sales data to gain insights into business 
 ## 📂 Database Schema
 The analysis is based on four relational tables:
 * **`orders`**: Contains order ID, date, and time.
-* **`order_details`**: Contains order details, quantity, and pizza ID.
-* **`pizzas`**: Contains pizza price, size, and links to pizza types.
-* **`pizza_types`**: Contains pizza names, categories, and ingredients.
+* **`order_details`**: Contains order detail id, order id quantity, and pizza id.
+* **`pizzas`**: Contains pizza id, pizza type id, size, and price.
+* **`pizza_types`**: Contains pizza type id, name, category, and ingredients.
 
 ## 🛠️ Tech Stack
 * **Database:** MySQL
@@ -45,9 +45,10 @@ I structured the analysis into three levels of complexity to demonstrate a range
 ## 🚀 How to Use
 1.  Clone this repository.
 2.  Import the raw CSV files (or execute the schema creation script) into your SQL database.
-3.  Open the `.sql` file to view the queries and execute them to reproduce the analysis.
+3.  Open the `project_query.sql` file to view the queries and execute them to reproduce the analysis. This file contains all the SQL queries corresponding to the business questions listed above.
 
 ---
+
 *Author: SUJEET CHOURASIA*
 
 *Connect with me on LinkedIn: https://www.linkedin.com/in/sujeet-chourasia-556886294/*
